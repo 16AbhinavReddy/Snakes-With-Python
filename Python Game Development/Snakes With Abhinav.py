@@ -6,7 +6,7 @@ pygame.init()
 
 gamewindow = pygame.display.set_mode((1200,500))
 pygame.display.set_caption("My first game")
-clock = pygame.time.Clock()
+clock = pygame.time.Clock() 
 
 
 
